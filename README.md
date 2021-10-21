@@ -1,5 +1,9 @@
 # api-client-test
 
+### MySql
+After cloning, in `.env` update the mysql credentials.
+
+
 ```
 git clone git@github.com:wowthemes/api-client-test.git
 cd api-client-test
